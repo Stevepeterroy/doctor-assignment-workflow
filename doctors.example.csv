@@ -1,0 +1,4 @@
+doctor_name,ward,status
+Demo Doctor A,general,active
+Demo Doctor B,emergency,active
+Demo Doctor C,mental_health,active
