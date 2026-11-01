@@ -2,3 +2,5 @@ pandas>=2.2,<4
 langgraph
 langchain-groq
 jupyter
+
+streamlit>=1.45,<2
